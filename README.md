@@ -5,7 +5,7 @@ Requisitos:
 Criar uma lista com todas as moedas virtuais, nessa lista eu preciso pesquisar uma moeda pelo nome, ordenar por nome (Ordem alfabética), pelo ranking e pelo seu valor em dólares.
 Salvar moedas como favoritas e mostrar elas no inicio da lista.
 
-Criar uma página para cada moeda onde terá suas informações. Um gráfico dos últimos valores da moeda em dólares, um gráfico com a previsão de qual valor a moeda vai atingir em x meses, uma calculadora que irá converter criptomoeda para outra criptomoeda (ex. Tenho 15 BTC quantos ETH eu posso comprar com esses 15 BTC), criptomoeda para dólar (ex. 15 BTC valem X dolares) e usando a previsão uma calculadora que irá mostrar se eu investir X baseado nas previsões quanto eu terei daqui X meses.
+Criar uma página para cada moeda onde terá suas informações. Um gráfico dos últimos valores da moeda em dólares, um gráfico com a previsão de qual valor a moeda vai atingir em x meses, uma calculadora que irá converter criptomoeda para outra criptomoeda (ex. Tenho 15 BTC quantos ETH eu posso comprar com esses 15 BTC), criptomoeda para dólar (ex. 15 BTC valem X dólares) e usando a previsão uma calculadora que irá mostrar se eu investir X baseado nas previsões quanto eu terei daqui X meses.
 
 
 **Lista Moedas**

@@ -34,7 +34,7 @@ Endpoint: https://coinbin.org/btc/history
 Endpoint: http://ip-api.com/json/<endereco-ip>
 ```
 
-#Alternativa de API
+# Alternativa de API
 ```sh
 https://min-api.cryptocompare.com/documentation
 ```
